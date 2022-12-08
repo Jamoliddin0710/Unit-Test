@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pJ+zUPty1JGHASf06mpRBwt7ZgDuX7I5BIrOeFEbnJQ=",
+  "Source": "UsersServiceForTesting.Api",
+  "BasePath": "_content/UsersServiceForTesting.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
